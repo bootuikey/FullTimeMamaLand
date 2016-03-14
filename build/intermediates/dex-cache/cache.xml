@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\playersdk_2016_01_05_18_v4.0_release.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d04778165e6a19783125eae5e3a7681bc6896c65">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\playersdk_2016_01_05_18_v4.0_release_e2be95af0eae2ca606e8e5716757f30581e55f29.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\Lesdk3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6ed940f5519d6a2b6ccc34f67e9eb1fd75f4bbe7">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\Lesdk3.0_dc0089bedaaee19052b67b0534d4aba2184c55b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\cde-sdk-0.9.84.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="406103084663ad7b7fabd7aabea9992422e1837b">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\cde-sdk-0.9.84_35cf59148147d9d01e5b2b85640c39bb14c0d3ed.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\VideoTracker.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9a2de6a04936c601ce7981470e200b405a386500">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\VideoTracker_31a18bd87b14c5bc6ad6621e7ef0e38f41e090c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\letvadlib_lecloud.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8235147aeb7ff370110d11b11a421314134cde">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\letvadlib_lecloud_97305938f3434ee557c922424067972393fbdaad.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerskin\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d1ca71418cf42fa4c73700f47566e5a22f08bb15">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\playerdemo_release-playerskin-unspecified_8337c665ed3966fd5208039d2fbe4b1bc038a67d.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.1\2e66da15851f9f5b5079228f856c2f090ba98c38\gson-2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2e66da15851f9f5b5079228f856c2f090ba98c38">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\gson-2.1_d4eefe71e313f09ce8cf6d2fd2a46ee1e91aaba0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\AdModule.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2a790a2a4eeadf6d0a66697ed4a45846d9cf483f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\AdModule_9db2dc7dfeb79fbd13a1728a4104553df9bffc64.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="33d0883782c890d7ebdbe29c926dfefa5dd38b72">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\playerdemo_release-playerLibRelease-unspecified_907430a2c5e49658a7df9a028c9af8ac2e2d2c31.jar" />
+    </item>
+    <item
+        jar="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\exploded-aar\playerdemo_release\playerLibRelease\unspecified\jars\libs\avdsmart_sdk.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="194d6fba6d068d8db1089a097b47f75357140ec6">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\playerdemo_release\playerdemo\build\intermediates\pre-dexed\debug\avdsmart_sdk_68e04c2398e6e224014f44305d5d94b8aa093cf5.jar" />
+    </item>
+
+</items>

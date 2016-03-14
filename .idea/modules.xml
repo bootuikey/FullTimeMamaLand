@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/playerLibRelease/playerLibRelease.iml" filepath="$PROJECT_DIR$/playerLibRelease/playerLibRelease.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerdemo/playerdemo.iml" filepath="$PROJECT_DIR$/playerdemo/playerdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerdemo_release.iml" filepath="$PROJECT_DIR$/playerdemo_release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerskin/playerskin.iml" filepath="$PROJECT_DIR$/playerskin/playerskin.iml" />
+    </modules>
+  </component>
+</project>

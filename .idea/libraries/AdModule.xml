@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="AdModule">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/playerLibRelease/libs/AdModule.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

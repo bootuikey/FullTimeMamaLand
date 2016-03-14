@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_large_mult_live_action_list_onclick_style.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_large_mult_live_action_list_onclick_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_battery_selecter.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_battery_selecter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_large_gesture_progress_vertical_style.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_large_gesture_progress_vertical_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_download_btn_selector.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_download_btn_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_small_seek_bar_2_style.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_small_seek_bar_2_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_back_btn_selecter.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_back_btn_selecter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\res\\merged\\debug\\drawable\\letv_skin_v4_wifi_selecter.xml",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerdemo\\build\\intermediates\\exploded-aar\\playerdemo_release\\playerskin\\unspecified\\res\\drawable\\letv_skin_v4_wifi_selecter.xml"
+    }
+]

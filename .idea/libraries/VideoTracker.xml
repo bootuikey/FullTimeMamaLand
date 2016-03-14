@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="VideoTracker">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/playerLibRelease/libs/VideoTracker.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

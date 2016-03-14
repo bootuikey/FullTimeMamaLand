@@ -1,0 +1,3 @@
+include ':playerLibRelease'
+include ':playerskin'
+include ':playerdemo'

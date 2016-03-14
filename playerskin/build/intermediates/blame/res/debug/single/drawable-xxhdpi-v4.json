@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_forward.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_forward.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_pause.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_pause.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_rewind.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_rewind.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_new_seek_bar_thumb.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_new_seek_bar_thumb.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_touch.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_touch.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_chgscreen_large.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_chgscreen_large.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_back_to_live.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_back_to_live.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_move.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_move.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_download.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_download.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_chgscreen_small.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_chgscreen_small.png"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\letv_skin_v4_btn_play.png",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\playerdemo_release\\playerskin\\src\\main\\res\\drawable-xxhdpi\\letv_skin_v4_btn_play.png"
+    }
+]
